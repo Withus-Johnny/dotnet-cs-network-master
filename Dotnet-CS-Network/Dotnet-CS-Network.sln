@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{EECA3F74-1103-42AA-A39E-013B57F5FD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B9C3DFB6-77C8-40D6-A351-A85B3CD9F4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networks", "Networks\Networks.csproj", "{AD4D2629-1401-40CC-90EC-F78C1AB991A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECA3F74-1103-42AA-A39E-013B57F5FD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECA3F74-1103-42AA-A39E-013B57F5FD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECA3F74-1103-42AA-A39E-013B57F5FD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECA3F74-1103-42AA-A39E-013B57F5FD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C3DFB6-77C8-40D6-A351-A85B3CD9F4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C3DFB6-77C8-40D6-A351-A85B3CD9F4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C3DFB6-77C8-40D6-A351-A85B3CD9F4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C3DFB6-77C8-40D6-A351-A85B3CD9F4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4D2629-1401-40CC-90EC-F78C1AB991A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4D2629-1401-40CC-90EC-F78C1AB991A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4D2629-1401-40CC-90EC-F78C1AB991A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4D2629-1401-40CC-90EC-F78C1AB991A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153A406C-F5CC-41FE-A198-B0FCFDA58975}
+	EndGlobalSection
+EndGlobal
